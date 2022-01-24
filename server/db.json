@@ -1,0 +1,58 @@
+{
+  "employees": [
+    {
+      "id": "1",
+      "name": "Sanjay",
+      "place": "Guntur",
+      "email": "sanjay@gmail.com"
+    },
+    {
+      "id": "2",
+      "name": "Bhavani",
+      "place": "Guntur",
+      "email": "bhavani@gmail.com"
+    },
+    {
+      "id": "3",
+      "name": "Achyuth",
+      "place": "Nellore",
+      "email": "achyth@gmail.com"
+    },
+    {
+      "id": "4",
+      "name": "SaiKumar",
+      "place": "Warangal",
+      "email": "saikumar@gmail.com"
+    },
+    {
+      "id": "5",
+      "name": "Vinay",
+      "place": "East Godavari",
+      "email": "vinay@gmail.com"
+    },
+    {
+      "name": "Sanjay Y",
+      "place": "KA",
+      "id": "okCoVBC",
+      "email": "sanju@gmail.com"
+    },
+    {
+      "name": "Bhavani D",
+      "place": "TN",
+      "id": "D0PcPhl",
+      "email": "bhavanid@gmail.com"
+    },
+    {
+      "name": "Naren",
+      "place": "TN",
+      "email": "naren@gmail.com",
+      "id": "g1wZ7w7"
+    },
+    {
+      "name": "Kalyani",
+      "place": "KA",
+      "email": "kalyani@gmail.com",
+      "id": "3OmCNbj"
+    }
+  ]
+}

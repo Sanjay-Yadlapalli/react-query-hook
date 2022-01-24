@@ -1,0 +1,25 @@
+.employee {
+    cursor: pointer;
+    box-shadow: 6px 6px 6px 5px #888888;
+}
+.employee:hover {
+    border-width: 2px;
+    border-style: solid;
+    border-color: black;
+}
+.single {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    box-shadow: 6px 6px 6px 5px #888888;
+    height: 350px;
+    width: 600px;
+    border-radius: 25px;
+    cursor: pointer;
+}
+.single:hover {
+    border-width: 2px;
+    border-style: solid;
+    border-color: black;
+}
